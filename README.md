@@ -50,11 +50,27 @@ This project demonstrates core front-end development concepts using **HTML, CSS,
 
 ```
 employee-directory/
-├── index.html
-├── README.md
+--> index.html
+--> style.css
+--> app.js
+--> README.md
 ```
 
 ---
+
+Demo Screen shots
+
+Responsive design for mobile
+--> ![alt text](image-1.png)
+
+Responsive design for laptop
+--> ![alt text](image-2.png)
+
+Filter Form
+-->![alt text](image-3.png)
+
+Add Employee Form
+-->![alt text](image-4.png)
 
 ## Future Enhancements
 
